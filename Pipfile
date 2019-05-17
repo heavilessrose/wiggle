@@ -15,6 +15,7 @@ lief = {index = "lief"}
 django = "*"
 coloredlogs = "*"
 elasticsearch-dsl = "*"
+r2pipe = "*"
 
 [requires]
 python_version = "3.7"
